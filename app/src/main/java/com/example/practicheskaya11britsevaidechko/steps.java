@@ -1,4 +1,4 @@
-package com.example.practicheskaya11teslukinikolaenko;
+package com.example.practicheskaya11britsevaidechko;
 
 import android.content.Intent;
 import android.os.Bundle;

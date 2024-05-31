@@ -1,4 +1,4 @@
-package com.example.practicheskaya11teslukinikolaenko;
+package com.example.practicheskaya11britsevaidechko;
 
 import android.net.Uri;
 import android.os.Bundle;

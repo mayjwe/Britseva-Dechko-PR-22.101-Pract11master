@@ -1,4 +1,4 @@
-package com.example.practicheskaya11teslukinikolaenko;
+package com.example.practicheskaya11britsevaidechko;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -13,7 +13,7 @@ import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
 public class MainActivity extends AppCompatActivity {
-    public final static String EXTRA_MESSAGE = "com.example.practicheskaya11teslukinikolaenko.MESSAGE";
+    public final static String EXTRA_MESSAGE = "com.example.practicheskaya11britsevaidechko.MESSAGE";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
